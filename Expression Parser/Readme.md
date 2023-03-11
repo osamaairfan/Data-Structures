@@ -1,5 +1,5 @@
 # Expression Parser
->An expression parser is a program that takes a string representing an expression as input, and returns the result of evaluating that expression. The expression can be a >simple arithmetic expression, such as "3 + 4", or it can be a more complex expression involving variables, function calls, and other elements.
+>An expression parser is a program that takes a string representing an expression as input, and returns the result of evaluating that expression. The expression can be a simple arithmetic expression, such as "3 + 4", or it can be a more complex expression involving variables, function calls, and other elements.
 >
 >The process of parsing an expression typically involves breaking the input string down into its individual tokens (such as numbers, operators, and function names), and then >using those tokens to build a representation of the expression in a form that can be easily evaluated.
 >The way to write arithmetic expression is known as a notation. An arithmetic expression can be written in three different but equivalent notations, i.e., without changing >the essence or output of an expression. 
