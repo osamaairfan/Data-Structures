@@ -6,7 +6,9 @@
 
 >These notations are:
 >•	Infix Notation
+>
 >•	Prefix Notation
+>
 >•	Postfix Notation
 
 >It is not a very efficient way to design an algorithm or program to parse infix notations because it is really complicated and less efficient. Instead, these infix notations >are first converted into either postfix or prefix notations and then computed or evaluated.
